@@ -1,0 +1,8 @@
+{
+  "name": "badanka-landing-page",
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.3",
+    "tailwindcss": "^4.0.3"
+  }
+}
